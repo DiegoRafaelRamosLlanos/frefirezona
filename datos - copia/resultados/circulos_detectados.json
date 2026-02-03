@@ -1,0 +1,442 @@
+{
+  "mapa1": {
+    "imagen_1": {
+      "centro_x": 832,
+      "centro_y": 700,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 478,
+      "centro_y": 740,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 516,
+      "centro_y": 654,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 560,
+      "centro_y": 682,
+      "radio": 53
+    }
+  },
+  "mapa10": {
+    "imagen_1": {
+      "centro_x": 630,
+      "centro_y": 666,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 568,
+      "centro_y": 714,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 552,
+      "centro_y": 760,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 536,
+      "centro_y": 764,
+      "radio": 53
+    }
+  },
+  "mapa11": {
+    "imagen_1": {
+      "centro_x": 518,
+      "centro_y": 556,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 418,
+      "centro_y": 428,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 358,
+      "centro_y": 396,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 392,
+      "centro_y": 402,
+      "radio": 53
+    }
+  },
+  "mapa12": {
+    "imagen_1": {
+      "centro_x": 696,
+      "centro_y": 530,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 766,
+      "centro_y": 412,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 798,
+      "centro_y": 396,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 796,
+      "centro_y": 396,
+      "radio": 53
+    }
+  },
+  "mapa13": {
+    "imagen_1": {
+      "centro_x": 456,
+      "centro_y": 624,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 320,
+      "centro_y": 574,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 240,
+      "centro_y": 570,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 202,
+      "centro_y": 552,
+      "radio": 53
+    }
+  },
+  "mapa14": {
+    "imagen_1": {
+      "centro_x": 640,
+      "centro_y": 658,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 666,
+      "centro_y": 666,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 772,
+      "centro_y": 616,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 648,
+      "centro_y": 678,
+      "radio": 53
+    }
+  },
+  "mapa15": {
+    "imagen_1": {
+      "centro_x": 524,
+      "centro_y": 748,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 470,
+      "centro_y": 788,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 474,
+      "centro_y": 738,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 494,
+      "centro_y": 770,
+      "radio": 53
+    }
+  },
+  "mapa16": {
+    "imagen_1": {
+      "centro_x": 576,
+      "centro_y": 796,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 536,
+      "centro_y": 870,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 506,
+      "centro_y": 886,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 494,
+      "centro_y": 896,
+      "radio": 53
+    }
+  },
+  "mapa17": {
+    "imagen_1": {
+      "centro_x": 572,
+      "centro_y": 710,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 524,
+      "centro_y": 790,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 494,
+      "centro_y": 752,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 500,
+      "centro_y": 758,
+      "radio": 53
+    }
+  },
+  "mapa18": {
+    "imagen_1": {
+      "centro_x": 716,
+      "centro_y": 650,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 818,
+      "centro_y": 592,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 752,
+      "centro_y": 646,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 772,
+      "centro_y": 652,
+      "radio": 53
+    }
+  },
+  "mapa19": {
+    "imagen_1": {
+      "centro_x": 710,
+      "centro_y": 732,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 738,
+      "centro_y": 790,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 716,
+      "centro_y": 764,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 694,
+      "centro_y": 736,
+      "radio": 53
+    }
+  },
+  "mapa2": {
+    "imagen_1": {
+      "centro_x": 670,
+      "centro_y": 592,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 564,
+      "centro_y": 686,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 542,
+      "centro_y": 664,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 586,
+      "centro_y": 646,
+      "radio": 53
+    }
+  },
+  "mapa20": {
+    "imagen_1": {
+      "centro_x": 506,
+      "centro_y": 682,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 452,
+      "centro_y": 626,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 484,
+      "centro_y": 642,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 506,
+      "centro_y": 616,
+      "radio": 53
+    }
+  },
+  "mapa3": {
+    "imagen_1": {
+      "centro_x": 780,
+      "centro_y": 608,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 942,
+      "centro_y": 570,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 1040,
+      "centro_y": 546,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 1088,
+      "centro_y": 540,
+      "radio": 53
+    }
+  },
+  "mapa4": {
+    "imagen_1": {
+      "centro_x": 638,
+      "centro_y": 736,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 654,
+      "centro_y": 882,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 652,
+      "centro_y": 902,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 654,
+      "centro_y": 902,
+      "radio": 53
+    }
+  },
+  "mapa5": {
+    "imagen_1": {
+      "centro_x": 742,
+      "centro_y": 766,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 866,
+      "centro_y": 882,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 934,
+      "centro_y": 948,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 968,
+      "centro_y": 980,
+      "radio": 53
+    }
+  },
+  "mapa6": {
+    "imagen_1": {
+      "centro_x": 700,
+      "centro_y": 792,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 688,
+      "centro_y": 764,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 694,
+      "centro_y": 796,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 666,
+      "centro_y": 804,
+      "radio": 53
+    }
+  },
+  "mapa7": {
+    "imagen_1": {
+      "centro_x": 706,
+      "centro_y": 562,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 852,
+      "centro_y": 512,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 938,
+      "centro_y": 474,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 944,
+      "centro_y": 494,
+      "radio": 53
+    }
+  },
+  "mapa8": {
+    "imagen_1": {
+      "centro_x": 526,
+      "centro_y": 548,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 412,
+      "centro_y": 422,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 346,
+      "centro_y": 346,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 340,
+      "centro_y": 326,
+      "radio": 53
+    }
+  },
+  "mapa9": {
+    "imagen_1": {
+      "centro_x": 666,
+      "centro_y": 656,
+      "radio": 376
+    },
+    "imagen_2": {
+      "centro_x": 612,
+      "centro_y": 664,
+      "radio": 206
+    },
+    "imagen_3": {
+      "centro_x": 580,
+      "centro_y": 612,
+      "radio": 103
+    },
+    "imagen_4": {
+      "centro_x": 626,
+      "centro_y": 596,
+      "radio": 53
+    }
+  }
+}

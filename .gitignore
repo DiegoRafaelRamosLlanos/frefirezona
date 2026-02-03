@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.webp
+*.tiff
+
+# Image Directories
+imagenesOriginales/
+imagenesRecortadas/
+
+# Archives
+*.zip
+
+# ML/DL Models
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.tflite
+*.safetensors
+*.pkl
+*.model
+
+# Datasets & Training Output
+data/
+dataset/
+datasets/
+models/
+weights/
+output/
+checkpoints/
+
+# Logs & Notebooks
+logs/
+runs/
+wandb/
+.ipynb_checkpoints/
+*.ipynb
+

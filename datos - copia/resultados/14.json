@@ -1,0 +1,22 @@
+{
+  "imagen_1": {
+    "centro_x": 640,
+    "centro_y": 660,
+    "radio": 376
+  },
+  "imagen_2": {
+    "centro_x": 667,
+    "centro_y": 665,
+    "radio": 206
+  },
+  "imagen_3": {
+    "centro_x": 651,
+    "centro_y": 674,
+    "radio": 103
+  },
+  "imagen_4": {
+    "centro_x": 650,
+    "centro_y": 677,
+    "radio": 53
+  }
+}
